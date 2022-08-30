@@ -47,7 +47,7 @@ public class CHRA1 {
                 break;
                 
             } else {
-                System.out.println("Invalid Operator!!!");
+                System.out.println("Invalid Operator!!");
             }
             System.out.println(ans);
 
